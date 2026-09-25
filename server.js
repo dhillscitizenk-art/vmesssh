@@ -591,7 +591,7 @@ const server = http.createServer(async (req, res) => {
                                   "          👑 SELAMAT MENIKMATI 👑\n" +
                                   "       🥳 SSH SERVER PAAS RAILWAY 🥳\n" +
                                   "==================================================\n" +
-                                  " powered by : d e d e f a t h u\n" +
+                                  " powered by : L U C K A x J A D D\n" +
                                   "==================================================\n";
             try { fs.writeFileSync('/etc/dropbear_banner', defaultBanner); } catch(e){}
         }
