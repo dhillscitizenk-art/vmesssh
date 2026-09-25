@@ -61,7 +61,7 @@ else
  🔹 OS PLATFORM : UBUNTU
  🔹 SSH SERVICE : DROPBEAR ENHANCED BUFFER
 ==================================================
- powered by : d e d e f a t h u
+ powered by : L U C K A x J A D D
 ==================================================
 EOF
 fi
